@@ -7,13 +7,21 @@ Approach - The following variables are chosen for the study
 
 
 > Per Capita GDP
+
 > Working Population
+
 > Unemployment Rate
+
 > Interest Rate
+
 > Monthly Supply of New Houses
+
 > Construction price
+
 > Residential property loan rate
+
 > New Privately-Owned Housing Units Completed: Total Units
+
 > Disposable Personal Income
 
 
